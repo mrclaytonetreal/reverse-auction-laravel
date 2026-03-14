@@ -1,0 +1,16 @@
+# Laravel standard ignore patterns
+/node_modules/
+/public/storage
+/uploads/
+/vendor/
+*.log
+.env
+Homestead.yaml
+Homestead.json
+/README.md
+.TELEMETRY
+/.idea
+/.vagrant
+/.env.local
+/.env.testing
+/.phpunit.result.cache
